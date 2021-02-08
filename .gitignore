@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/HandleRequestWorker/bin
+/HandleRequestWorker/obj/Debug
+/packages
+/Requests/bin
+/Requests/obj/Debug
+/Requests/Requests.csproj.user
+/Requests.Data/bin/Debug
+/Requests.Data/obj/Debug
+/WindowsService1test/bin/Debug
+/WindowsService1test/obj/Debug
